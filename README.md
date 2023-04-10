@@ -10,7 +10,7 @@ Natural Language processing, a sub-field of machine learning has gained immense 
 Sentiment Analysis
 One of the key areas where NLP has been predominantly used is Sentiment analysis. The understanding of customer behavior and needs on a company’s products and services is vital for organizations. Generally, the feedback provided by a customer on a product can be categorized into Positive, Negative, and Neutral. Interpreting customer feedback through product reviews helps companies evaluate how satisfied the customers are with their products/services.
 
-![image](https://user-images.githubusercontent.com/114068300/230829272-5fe54166-dfd3-4737-908e-77d4c002a401.png)
+![image](https://user-images.githubusercontent.com/114068300/230829942-df3d07f5-8f8f-45ef-8b50-90f54e7abe74.png)
 
 NLTK
 For performing sentiment analysis, we will use NLTK package of the Python. Christopher Manning says, “NLTK is sort of the Swiss Army Knife of NLP meaning that it’s not terribly good for anything. But it has a lot of basic tools.” For accessing Wordnet, it’s an easy solution.
